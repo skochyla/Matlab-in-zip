@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>3p/docbook-dsssl</componentBaseName>
+    <componentFileName>3p/docbook-dsssl_common_1527214481.enc</componentFileName>
+    <componentName>3p/docbook-dsssl_common</componentName>
+    <componentVersion>1527214481</componentVersion>
+    <instrset>0</instrset>
+    <locale />
+    <locationId>1</locationId>
+    <numFiles>287</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2018b</releaseFamily>
+    <size>615468</size>
+    <type />
+    <uncompressedBytes>2892525</uncompressedBytes>
+  </component>
+</componentData>
+

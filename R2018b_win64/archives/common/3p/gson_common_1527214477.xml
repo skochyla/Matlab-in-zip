@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>3p/gson</componentBaseName>
+    <componentFileName>3p/gson_common_1527214477.enc</componentFileName>
+    <componentName>3p/gson_common</componentName>
+    <componentVersion>1527214477</componentVersion>
+    <instrset>0</instrset>
+    <locale />
+    <locationId>1</locationId>
+    <numFiles>2</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2018b</releaseFamily>
+    <size>170931</size>
+    <type />
+    <uncompressedBytes>190502</uncompressedBytes>
+  </component>
+</componentData>
+

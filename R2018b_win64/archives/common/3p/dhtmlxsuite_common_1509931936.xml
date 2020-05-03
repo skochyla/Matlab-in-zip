@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>3p/dhtmlxsuite</componentBaseName>
+    <componentFileName>3p/dhtmlxsuite_common_1509931936.enc</componentFileName>
+    <componentName>3p/dhtmlxsuite_common</componentName>
+    <componentVersion>1509931936</componentVersion>
+    <instrset>0</instrset>
+    <locale />
+    <locationId>2</locationId>
+    <numFiles>627</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2018b</releaseFamily>
+    <size>733986</size>
+    <type />
+    <uncompressedBytes>1762785</uncompressedBytes>
+  </component>
+</componentData>
+

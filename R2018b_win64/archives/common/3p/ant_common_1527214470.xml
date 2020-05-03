@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>3p/ant</componentBaseName>
+    <componentFileName>3p/ant_common_1527214470.enc</componentFileName>
+    <componentName>3p/ant_common</componentName>
+    <componentVersion>1527214470</componentVersion>
+    <instrset>0</instrset>
+    <locale />
+    <locationId>1</locationId>
+    <numFiles>5</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2018b</releaseFamily>
+    <size>1910345</size>
+    <type />
+    <uncompressedBytes>2083165</uncompressedBytes>
+  </component>
+</componentData>
+

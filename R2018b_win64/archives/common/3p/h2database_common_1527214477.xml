@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>3p/h2database</componentBaseName>
+    <componentFileName>3p/h2database_common_1527214477.enc</componentFileName>
+    <componentName>3p/h2database_common</componentName>
+    <componentVersion>1527214477</componentVersion>
+    <instrset>0</instrset>
+    <locale />
+    <locationId>2</locationId>
+    <numFiles>3</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2018b</releaseFamily>
+    <size>3039826</size>
+    <type />
+    <uncompressedBytes>3184020</uncompressedBytes>
+  </component>
+</componentData>
+
