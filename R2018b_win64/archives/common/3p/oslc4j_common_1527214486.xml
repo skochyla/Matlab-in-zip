@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>3p/oslc4j</componentBaseName>
+    <componentFileName>3p/oslc4j_common_1527214486.enc</componentFileName>
+    <componentName>3p/oslc4j_common</componentName>
+    <componentVersion>1527214486</componentVersion>
+    <instrset>0</instrset>
+    <locale />
+    <locationId>2</locationId>
+    <numFiles>41</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2018b</releaseFamily>
+    <size>7697864</size>
+    <type />
+    <uncompressedBytes>8645063</uncompressedBytes>
+  </component>
+</componentData>
+

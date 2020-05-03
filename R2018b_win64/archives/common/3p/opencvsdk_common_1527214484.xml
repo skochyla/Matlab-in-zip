@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>3p/opencvsdk</componentBaseName>
+    <componentFileName>3p/opencvsdk_common_1527214484.enc</componentFileName>
+    <componentName>3p/opencvsdk_common</componentName>
+    <componentVersion>1527214484</componentVersion>
+    <instrset>0</instrset>
+    <locale />
+    <locationId>2</locationId>
+    <numFiles>299</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2018b</releaseFamily>
+    <size>1236203</size>
+    <type />
+    <uncompressedBytes>4792565</uncompressedBytes>
+  </component>
+</componentData>
+

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>3p/log4j</componentBaseName>
+    <componentFileName>3p/log4j_common_1527214479.enc</componentFileName>
+    <componentName>3p/log4j_common</componentName>
+    <componentVersion>1527214479</componentVersion>
+    <instrset>0</instrset>
+    <locale />
+    <locationId>1</locationId>
+    <numFiles>3</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2018b</releaseFamily>
+    <size>361338</size>
+    <type />
+    <uncompressedBytes>403272</uncompressedBytes>
+  </component>
+</componentData>
+

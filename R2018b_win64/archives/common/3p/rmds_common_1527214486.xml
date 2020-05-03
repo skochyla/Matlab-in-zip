@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>3p/rmds</componentBaseName>
+    <componentFileName>3p/rmds_common_1527214486.enc</componentFileName>
+    <componentName>3p/rmds_common</componentName>
+    <componentVersion>1527214486</componentVersion>
+    <instrset>0</instrset>
+    <locale />
+    <locationId>2</locationId>
+    <numFiles>3</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2018b</releaseFamily>
+    <size>1747752</size>
+    <type />
+    <uncompressedBytes>1937505</uncompressedBytes>
+  </component>
+</componentData>
+
