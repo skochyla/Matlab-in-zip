@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>connector/java/message_service_java_api</componentBaseName>
+    <componentFileName>connector/java/message_service_java_api_common_1527215065.enc</componentFileName>
+    <componentName>connector/java/message_service_java_api_common</componentName>
+    <componentVersion>1527215065</componentVersion>
+    <instrset>0</instrset>
+    <locale />
+    <locationId>1</locationId>
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2018b</releaseFamily>
+    <size>4021</size>
+    <type />
+    <uncompressedBytes>5585</uncompressedBytes>
+  </component>
+</componentData>
+

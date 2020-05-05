@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>comm/commhdloptimized</componentBaseName>
+    <componentFileName>comm/commhdloptimized_common_1527231555.enc</componentFileName>
+    <componentName>comm/commhdloptimized_common</componentName>
+    <componentVersion>1527231555</componentVersion>
+    <instrset>0</instrset>
+    <locale />
+    <locationId>2</locationId>
+    <numFiles>186</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2018b</releaseFamily>
+    <size>186418</size>
+    <type />
+    <uncompressedBytes>214268</uncompressedBytes>
+  </component>
+</componentData>
+

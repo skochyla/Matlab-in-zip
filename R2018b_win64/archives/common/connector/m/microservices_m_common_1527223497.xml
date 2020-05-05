@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>connector/m/microservices_m</componentBaseName>
+    <componentFileName>connector/m/microservices_m_common_1527223497.enc</componentFileName>
+    <componentName>connector/m/microservices_m_common</componentName>
+    <componentVersion>1527223497</componentVersion>
+    <instrset>0</instrset>
+    <locale />
+    <locationId>1</locationId>
+    <numFiles>25</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2018b</releaseFamily>
+    <size>16186</size>
+    <type />
+    <uncompressedBytes>8995</uncompressedBytes>
+  </component>
+</componentData>
+

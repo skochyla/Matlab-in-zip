@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>connector/m/interpreter_m</componentBaseName>
+    <componentFileName>connector/m/interpreter_m_common_1527223668.enc</componentFileName>
+    <componentName>connector/m/interpreter_m_common</componentName>
+    <componentVersion>1527223668</componentVersion>
+    <instrset>0</instrset>
+    <locale />
+    <locationId>1</locationId>
+    <numFiles>5</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2018b</releaseFamily>
+    <size>2396</size>
+    <type />
+    <uncompressedBytes>1243</uncompressedBytes>
+  </component>
+</componentData>
+

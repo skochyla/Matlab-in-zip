@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>connector/jni_cosg</componentBaseName>
+    <componentFileName>connector/jni_cosg_common_1527215099.enc</componentFileName>
+    <componentName>connector/jni_cosg_common</componentName>
+    <componentVersion>1527215099</componentVersion>
+    <instrset>0</instrset>
+    <locale />
+    <locationId>1</locationId>
+    <numFiles>3</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2018b</releaseFamily>
+    <size>10593</size>
+    <type />
+    <uncompressedBytes>13024</uncompressedBytes>
+  </component>
+</componentData>
+

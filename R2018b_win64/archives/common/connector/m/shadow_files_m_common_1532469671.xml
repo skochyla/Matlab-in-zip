@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>connector/m/shadow_files_m</componentBaseName>
+    <componentFileName>connector/m/shadow_files_m_common_1532469671.enc</componentFileName>
+    <componentName>connector/m/shadow_files_m_common</componentName>
+    <componentVersion>1532469671</componentVersion>
+    <instrset>0</instrset>
+    <locale />
+    <locationId>1</locationId>
+    <numFiles>158</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2018b</releaseFamily>
+    <size>121925</size>
+    <type />
+    <uncompressedBytes>245862</uncompressedBytes>
+  </component>
+</componentData>
+

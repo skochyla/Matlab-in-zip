@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>connector/java/connector_java_impl</componentBaseName>
+    <componentFileName>connector/java/connector_java_impl_common_1527240822.enc</componentFileName>
+    <componentName>connector/java/connector_java_impl_common</componentName>
+    <componentVersion>1527240822</componentVersion>
+    <instrset>0</instrset>
+    <locale />
+    <locationId>1</locationId>
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2018b</releaseFamily>
+    <size>16765</size>
+    <type />
+    <uncompressedBytes>19523</uncompressedBytes>
+  </component>
+</componentData>
+

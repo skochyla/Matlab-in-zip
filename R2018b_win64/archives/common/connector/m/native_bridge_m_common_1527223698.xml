@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>connector/m/native_bridge_m</componentBaseName>
+    <componentFileName>connector/m/native_bridge_m_common_1527223698.enc</componentFileName>
+    <componentName>connector/m/native_bridge_m_common</componentName>
+    <componentVersion>1527223698</componentVersion>
+    <instrset>0</instrset>
+    <locale />
+    <locationId>1</locationId>
+    <numFiles>7</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2018b</releaseFamily>
+    <size>4043</size>
+    <type />
+    <uncompressedBytes>2145</uncompressedBytes>
+  </component>
+</componentData>
+

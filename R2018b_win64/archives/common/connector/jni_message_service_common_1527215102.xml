@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>connector/jni_message_service</componentBaseName>
+    <componentFileName>connector/jni_message_service_common_1527215102.enc</componentFileName>
+    <componentName>connector/jni_message_service_common</componentName>
+    <componentVersion>1527215102</componentVersion>
+    <instrset>0</instrset>
+    <locale />
+    <locationId>1</locationId>
+    <numFiles>3</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2018b</releaseFamily>
+    <size>22345</size>
+    <type />
+    <uncompressedBytes>26595</uncompressedBytes>
+  </component>
+</componentData>
+

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>connector/jni_json</componentBaseName>
+    <componentFileName>connector/jni_json_common_1527215094.enc</componentFileName>
+    <componentName>connector/jni_json_common</componentName>
+    <componentVersion>1527215094</componentVersion>
+    <instrset>0</instrset>
+    <locale />
+    <locationId>1</locationId>
+    <numFiles>3</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2018b</releaseFamily>
+    <size>9859</size>
+    <type />
+    <uncompressedBytes>11747</uncompressedBytes>
+  </component>
+</componentData>
+

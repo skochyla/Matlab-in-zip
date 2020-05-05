@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>connector/m/framework_m</componentBaseName>
+    <componentFileName>connector/m/framework_m_common_1527223491.enc</componentFileName>
+    <componentName>connector/m/framework_m_common</componentName>
+    <componentVersion>1527223491</componentVersion>
+    <instrset>0</instrset>
+    <locale />
+    <locationId>1</locationId>
+    <numFiles>13</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2018b</releaseFamily>
+    <size>8382</size>
+    <type />
+    <uncompressedBytes>5226</uncompressedBytes>
+  </component>
+</componentData>
+

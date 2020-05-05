@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>connector/m/session_m</componentBaseName>
+    <componentFileName>connector/m/session_m_common_1531852125.enc</componentFileName>
+    <componentName>connector/m/session_m_common</componentName>
+    <componentVersion>1531852125</componentVersion>
+    <instrset>0</instrset>
+    <locale />
+    <locationId>1</locationId>
+    <numFiles>18</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2018b</releaseFamily>
+    <size>13182</size>
+    <type />
+    <uncompressedBytes>9736</uncompressedBytes>
+  </component>
+</componentData>
+

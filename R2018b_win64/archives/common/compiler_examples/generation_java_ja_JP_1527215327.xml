@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>compiler_examples/generation_java</componentBaseName>
+    <componentFileName>compiler_examples/generation_java_ja_JP_1527215327.enc</componentFileName>
+    <componentName>compiler_examples/generation_java_ja_JP</componentName>
+    <componentVersion>1527215327</componentVersion>
+    <instrset>0</instrset>
+    <locale>ja_JP</locale>
+    <locationId>2</locationId>
+    <numFiles>2</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2018b</releaseFamily>
+    <size>776</size>
+    <type />
+    <uncompressedBytes>496</uncompressedBytes>
+  </component>
+</componentData>
+

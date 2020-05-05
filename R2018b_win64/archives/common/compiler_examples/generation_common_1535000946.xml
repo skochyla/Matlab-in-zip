@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>compiler_examples/generation</componentBaseName>
+    <componentFileName>compiler_examples/generation_common_1535000946.enc</componentFileName>
+    <componentName>compiler_examples/generation_common</componentName>
+    <componentVersion>1535000946</componentVersion>
+    <instrset>0</instrset>
+    <locale />
+    <locationId>2</locationId>
+    <numFiles>2</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2018b</releaseFamily>
+    <size>8437</size>
+    <type />
+    <uncompressedBytes>10755</uncompressedBytes>
+  </component>
+</componentData>
+
