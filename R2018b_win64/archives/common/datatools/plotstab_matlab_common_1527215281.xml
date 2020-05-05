@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>datatools/plotstab_matlab</componentBaseName>
+    <componentFileName>datatools/plotstab_matlab_common_1527215281.enc</componentFileName>
+    <componentName>datatools/plotstab_matlab_common</componentName>
+    <componentVersion>1527215281</componentVersion>
+    <instrset>0</instrset>
+    <locale />
+    <locationId>1</locationId>
+    <numFiles>4</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2018b</releaseFamily>
+    <size>8602</size>
+    <type />
+    <uncompressedBytes>34793</uncompressedBytes>
+  </component>
+</componentData>
+

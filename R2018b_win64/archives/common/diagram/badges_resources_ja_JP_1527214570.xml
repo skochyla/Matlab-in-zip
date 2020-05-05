@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>diagram/badges_resources</componentBaseName>
+    <componentFileName>diagram/badges_resources_ja_JP_1527214570.enc</componentFileName>
+    <componentName>diagram/badges_resources_ja_JP</componentName>
+    <componentVersion>1527214570</componentVersion>
+    <instrset>0</instrset>
+    <locale>ja_JP</locale>
+    <locationId>1</locationId>
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2018b</releaseFamily>
+    <size>709</size>
+    <type />
+    <uncompressedBytes>916</uncompressedBytes>
+  </component>
+</componentData>
+

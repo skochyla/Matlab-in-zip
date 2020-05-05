@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>datatools/variableeditor_matlab</componentBaseName>
+    <componentFileName>datatools/variableeditor_matlab_common_1534999465.enc</componentFileName>
+    <componentName>datatools/variableeditor_matlab_common</componentName>
+    <componentVersion>1534999465</componentVersion>
+    <instrset>0</instrset>
+    <locale />
+    <locationId>1</locationId>
+    <numFiles>211</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2018b</releaseFamily>
+    <size>302076</size>
+    <type />
+    <uncompressedBytes>1032757</uncompressedBytes>
+  </component>
+</componentData>
+

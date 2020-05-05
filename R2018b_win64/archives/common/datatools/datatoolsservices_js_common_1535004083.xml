@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>datatools/datatoolsservices_js</componentBaseName>
+    <componentFileName>datatools/datatoolsservices_js_common_1535004083.enc</componentFileName>
+    <componentName>datatools/datatoolsservices_js_common</componentName>
+    <componentVersion>1535004083</componentVersion>
+    <instrset>0</instrset>
+    <locale />
+    <locationId>1</locationId>
+    <numFiles>847</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2018b</releaseFamily>
+    <size>2561988</size>
+    <type />
+    <uncompressedBytes>4382590</uncompressedBytes>
+  </component>
+</componentData>
+
