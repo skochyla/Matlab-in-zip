@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>datatools/peermodel_mcos_matlab</componentBaseName>
+    <componentFileName>datatools/peermodel_mcos_matlab_common_1527215129.enc</componentFileName>
+    <componentName>datatools/peermodel_mcos_matlab_common</componentName>
+    <componentVersion>1527215129</componentVersion>
+    <instrset>0</instrset>
+    <locale />
+    <locationId>1</locationId>
+    <numFiles>10</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2018b</releaseFamily>
+    <size>13521</size>
+    <type />
+    <uncompressedBytes>49251</uncompressedBytes>
+  </component>
+</componentData>
+

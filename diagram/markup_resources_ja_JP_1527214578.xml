@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>diagram/markup_resources</componentBaseName>
+    <componentFileName>diagram/markup_resources_ja_JP_1527214578.enc</componentFileName>
+    <componentName>diagram/markup_resources_ja_JP</componentName>
+    <componentVersion>1527214578</componentVersion>
+    <instrset>0</instrset>
+    <locale>ja_JP</locale>
+    <locationId>1</locationId>
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2018b</releaseFamily>
+    <size>708</size>
+    <type />
+    <uncompressedBytes>810</uncompressedBytes>
+  </component>
+</componentData>
+

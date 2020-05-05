@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>datatools/workspacebrowser_matlab</componentBaseName>
+    <componentFileName>datatools/workspacebrowser_matlab_common_1527215281.enc</componentFileName>
+    <componentName>datatools/workspacebrowser_matlab_common</componentName>
+    <componentVersion>1527215281</componentVersion>
+    <instrset>0</instrset>
+    <locale />
+    <locationId>1</locationId>
+    <numFiles>22</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2018b</releaseFamily>
+    <size>23969</size>
+    <type />
+    <uncompressedBytes>60263</uncompressedBytes>
+  </component>
+</componentData>
+

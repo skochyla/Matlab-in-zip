@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>datatools/inspector_registration</componentBaseName>
+    <componentFileName>datatools/inspector_registration_common_1532730415.enc</componentFileName>
+    <componentName>datatools/inspector_registration_common</componentName>
+    <componentVersion>1532730415</componentVersion>
+    <instrset>0</instrset>
+    <locale />
+    <locationId>1</locationId>
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2018b</releaseFamily>
+    <size>364264</size>
+    <type />
+    <uncompressedBytes>365901</uncompressedBytes>
+  </component>
+</componentData>
+
