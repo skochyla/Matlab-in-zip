@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>appdesigner/application_js_resources</componentBaseName>
+    <componentFileName>appdesigner/application_js_resources_zh_CN_1534193107.enc</componentFileName>
+    <componentName>appdesigner/application_js_resources_zh_CN</componentName>
+    <componentVersion>1534193107</componentVersion>
+    <instrset>0</instrset>
+    <locale>zh_CN</locale>
+    <locationId>1</locationId>
+    <numFiles>12</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2018b</releaseFamily>
+    <size>16098</size>
+    <type />
+    <uncompressedBytes>37938</uncompressedBytes>
+  </component>
+</componentData>
+

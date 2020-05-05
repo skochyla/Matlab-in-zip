@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>appdesigner/interface_m</componentBaseName>
+    <componentFileName>appdesigner/interface_m_common_1527215114.enc</componentFileName>
+    <componentName>appdesigner/interface_m_common</componentName>
+    <componentVersion>1527215114</componentVersion>
+    <instrset>0</instrset>
+    <locale />
+    <locationId>1</locationId>
+    <numFiles>5</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2018b</releaseFamily>
+    <size>9910</size>
+    <type />
+    <uncompressedBytes>31644</uncompressedBytes>
+  </component>
+</componentData>
+

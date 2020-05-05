@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>appdesigner/application_js_resources</componentBaseName>
+    <componentFileName>appdesigner/application_js_resources_common_1532708845.enc</componentFileName>
+    <componentName>appdesigner/application_js_resources_common</componentName>
+    <componentVersion>1532708845</componentVersion>
+    <instrset>0</instrset>
+    <locale />
+    <locationId>1</locationId>
+    <numFiles>14</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2018b</releaseFamily>
+    <size>14963</size>
+    <type />
+    <uncompressedBytes>41980</uncompressedBytes>
+  </component>
+</componentData>
+

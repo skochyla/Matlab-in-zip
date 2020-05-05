@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>appdesigner/application_js_resources</componentBaseName>
+    <componentFileName>appdesigner/application_js_resources_ko_KR_1534193107.enc</componentFileName>
+    <componentName>appdesigner/application_js_resources_ko_KR</componentName>
+    <componentVersion>1534193107</componentVersion>
+    <instrset>0</instrset>
+    <locale>ko_KR</locale>
+    <locationId>1</locationId>
+    <numFiles>12</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2018b</releaseFamily>
+    <size>16975</size>
+    <type />
+    <uncompressedBytes>42865</uncompressedBytes>
+  </component>
+</componentData>
+

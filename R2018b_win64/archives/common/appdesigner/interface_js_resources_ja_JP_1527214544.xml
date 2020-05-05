@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>appdesigner/interface_js_resources</componentBaseName>
+    <componentFileName>appdesigner/interface_js_resources_ja_JP_1527214544.enc</componentFileName>
+    <componentName>appdesigner/interface_js_resources_ja_JP</componentName>
+    <componentVersion>1527214544</componentVersion>
+    <instrset>0</instrset>
+    <locale>ja_JP</locale>
+    <locationId>1</locationId>
+    <numFiles>2</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2018b</releaseFamily>
+    <size>1131</size>
+    <type />
+    <uncompressedBytes>1120</uncompressedBytes>
+  </component>
+</componentData>
+
