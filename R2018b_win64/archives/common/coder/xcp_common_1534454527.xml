@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>coder/xcp</componentBaseName>
+    <componentFileName>coder/xcp_common_1534454527.enc</componentFileName>
+    <componentName>coder/xcp_common</componentName>
+    <componentVersion>1534454527</componentVersion>
+    <instrset>0</instrset>
+    <locale />
+    <locationId>1</locationId>
+    <numFiles>59</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2018b</releaseFamily>
+    <size>110057</size>
+    <type />
+    <uncompressedBytes>339252</uncompressedBytes>
+  </component>
+</componentData>
+

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>coder/cpptools</componentBaseName>
+    <componentFileName>coder/cpptools_common_1527230249.enc</componentFileName>
+    <componentName>coder/cpptools_common</componentName>
+    <componentVersion>1527230249</componentVersion>
+    <instrset>0</instrset>
+    <locale />
+    <locationId>1</locationId>
+    <numFiles>2</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2018b</releaseFamily>
+    <size>919</size>
+    <type />
+    <uncompressedBytes>514</uncompressedBytes>
+  </component>
+</componentData>
+

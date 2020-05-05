@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>coder/sltoolstrip_base_hw_resources</componentBaseName>
+    <componentFileName>coder/sltoolstrip_base_hw_resources_common_1517510156.enc</componentFileName>
+    <componentName>coder/sltoolstrip_base_hw_resources_common</componentName>
+    <componentVersion>1517510156</componentVersion>
+    <instrset>0</instrset>
+    <locale />
+    <locationId>2</locationId>
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2018b</releaseFamily>
+    <size>541</size>
+    <type />
+    <uncompressedBytes>427</uncompressedBytes>
+  </component>
+</componentData>
+
