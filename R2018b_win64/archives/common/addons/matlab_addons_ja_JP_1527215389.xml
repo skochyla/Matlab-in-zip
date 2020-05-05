@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>addons/matlab_addons</componentBaseName>
+    <componentFileName>addons/matlab_addons_ja_JP_1527215389.enc</componentFileName>
+    <componentName>addons/matlab_addons_ja_JP</componentName>
+    <componentVersion>1527215389</componentVersion>
+    <instrset>0</instrset>
+    <locale>ja_JP</locale>
+    <locationId>1</locationId>
+    <numFiles>2</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2018b</releaseFamily>
+    <size>2008</size>
+    <type />
+    <uncompressedBytes>2174</uncompressedBytes>
+  </component>
+</componentData>
+

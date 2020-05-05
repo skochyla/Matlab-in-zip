@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>addons/metadata</componentBaseName>
+    <componentFileName>addons/metadata_common_1527624340.enc</componentFileName>
+    <componentName>addons/metadata_common</componentName>
+    <componentVersion>1527624340</componentVersion>
+    <instrset>0</instrset>
+    <locale />
+    <locationId>1</locationId>
+    <numFiles>2</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2018b</releaseFamily>
+    <size>4770</size>
+    <type />
+    <uncompressedBytes>5021</uncompressedBytes>
+  </component>
+</componentData>
+

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>addons/app</componentBaseName>
+    <componentFileName>addons/app_common_1535000866.enc</componentFileName>
+    <componentName>addons/app_common</componentName>
+    <componentVersion>1535000866</componentVersion>
+    <instrset>0</instrset>
+    <locale />
+    <locationId>1</locationId>
+    <numFiles>2</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2018b</releaseFamily>
+    <size>8287</size>
+    <type />
+    <uncompressedBytes>9563</uncompressedBytes>
+  </component>
+</componentData>
+

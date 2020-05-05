@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>addons/zip</componentBaseName>
+    <componentFileName>addons/zip_zh_CN_1527215243.enc</componentFileName>
+    <componentName>addons/zip_zh_CN</componentName>
+    <componentVersion>1527215243</componentVersion>
+    <instrset>0</instrset>
+    <locale>zh_CN</locale>
+    <locationId>1</locationId>
+    <numFiles>2</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2018b</releaseFamily>
+    <size>1254</size>
+    <type />
+    <uncompressedBytes>1510</uncompressedBytes>
+  </component>
+</componentData>
+

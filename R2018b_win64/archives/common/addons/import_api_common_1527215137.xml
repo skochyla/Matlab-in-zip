@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>addons/import_api</componentBaseName>
+    <componentFileName>addons/import_api_common_1527215137.enc</componentFileName>
+    <componentName>addons/import_api_common</componentName>
+    <componentVersion>1527215137</componentVersion>
+    <instrset>0</instrset>
+    <locale />
+    <locationId>1</locationId>
+    <numFiles>2</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2018b</releaseFamily>
+    <size>1608</size>
+    <type />
+    <uncompressedBytes>1889</uncompressedBytes>
+  </component>
+</componentData>
+

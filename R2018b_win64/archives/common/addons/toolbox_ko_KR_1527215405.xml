@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>addons/toolbox</componentBaseName>
+    <componentFileName>addons/toolbox_ko_KR_1527215405.enc</componentFileName>
+    <componentName>addons/toolbox_ko_KR</componentName>
+    <componentVersion>1527215405</componentVersion>
+    <instrset>0</instrset>
+    <locale>ko_KR</locale>
+    <locationId>1</locationId>
+    <numFiles>2</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2018b</releaseFamily>
+    <size>690</size>
+    <type />
+    <uncompressedBytes>458</uncompressedBytes>
+  </component>
+</componentData>
+

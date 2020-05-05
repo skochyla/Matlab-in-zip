@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>addons/matlab_addons_resources</componentBaseName>
+    <componentFileName>addons/matlab_addons_resources_ko_KR_1531844687.enc</componentFileName>
+    <componentName>addons/matlab_addons_resources_ko_KR</componentName>
+    <componentVersion>1531844687</componentVersion>
+    <instrset>0</instrset>
+    <locale>ko_KR</locale>
+    <locationId>1</locationId>
+    <numFiles>5</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2018b</releaseFamily>
+    <size>4444</size>
+    <type />
+    <uncompressedBytes>7505</uncompressedBytes>
+  </component>
+</componentData>
+

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>addons/supportpackage</componentBaseName>
+    <componentFileName>addons/supportpackage_ko_KR_1534193610.enc</componentFileName>
+    <componentName>addons/supportpackage_ko_KR</componentName>
+    <componentVersion>1534193610</componentVersion>
+    <instrset>0</instrset>
+    <locale>ko_KR</locale>
+    <locationId>1</locationId>
+    <numFiles>2</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2018b</releaseFamily>
+    <size>1120</size>
+    <type />
+    <uncompressedBytes>1373</uncompressedBytes>
+  </component>
+</componentData>
+
